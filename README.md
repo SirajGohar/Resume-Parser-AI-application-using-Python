@@ -1,1 +1,2 @@
 # Resume-Parser-AI-application-using-Python
+The Resume Parser AI application is designed to automate and streamline the recruitment process by extracting key information from resumes using Natural Language Processing (NLP) and Machine Learning (ML). Built using Python, this application efficiently processes resumes in various formats (PDF, DOCX, etc.) and extracts relevant details such as candidate name, contact information, skills, education, work experience, and certifications.
